@@ -1,1 +1,6 @@
 file at master branch
+day la phan thay doi cua nhanh 1
+day la phan thay doi cua nhanh 2
+---------------------------------
+
+day la phan chinh sua tam thoi
