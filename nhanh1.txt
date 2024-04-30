@@ -1,1 +1,4 @@
 file at nhanh1 branch
+---------------------
+
+Test thay doi ten nguoi commit
